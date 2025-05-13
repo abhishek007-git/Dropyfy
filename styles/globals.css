@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-sans: 'Poppins', system-ui, sans-serif;
+  --font-mono: 'Fira Code', monospace;
+}
+
+html {
+  font-family: var(--font-sans);
+}
+
+body {
+  font-family: var(--font-sans);
+}
+
+/* styles/globals.css */
+@base {
+  input,
+  textarea,
+  select {
+    @apply text-default-900;
+  }
+}
