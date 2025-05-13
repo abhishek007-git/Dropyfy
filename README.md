@@ -1,4 +1,4 @@
-# Droply
+# Dropyfy
 
 A simple file storage application built with Next.js, Clerk, Neon, Drizzle, and HeroUI.
 
@@ -32,7 +32,7 @@ A simple file storage application built with Next.js, Clerk, Neon, Drizzle, and 
 
    ```bash
    git clone https://github.com/yourusername/droply.git
-   cd droply
+   cd dropyfy
    ```
 
 2. Install dependencies:
